@@ -1,0 +1,3 @@
+hi
+this is a file in feature branch
+it is to check merging, sqaushing and rebasing
